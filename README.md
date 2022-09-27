@@ -12,7 +12,7 @@
 ### 安装预编译的二进制文件
 
 
-从[发布页面](https://github.com/vlinux/kafkacli/releases)下载预编译的二进制文件并复制到所需位置。
+从[发布页面](https://github.com/vlinux/kafkacli/releases)下载预编译的二进制文件并复制到所需位置
 
 
 ### 从源代码编译
