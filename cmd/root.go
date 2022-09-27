@@ -18,6 +18,7 @@ var rootCmd = &cobra.Command{
 
 	Author: vlinux
 	Blog: https://www.kococ.cn
+	Github: https://github.com/vlinux/kafkacli
 	Email: ilinux@88.com`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
